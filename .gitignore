@@ -1,0 +1,10 @@
+# Ignore sensitive files
+db.php
+.env
+uploads/
+*.log
+*.cache
+vendor/
+node_modules/
+.vscode/
+.DS_Store
